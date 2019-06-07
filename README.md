@@ -1,13 +1,14 @@
-Install
+## Quick Start
+
 -Executable is located in wlprs/dist/interactive directory
+
 -Run interactive.exe
 
-Completed Tasks:
--Beta to Beta V2 Fixes
-    -fixed so distances are calculated once
-    -made ASCII map display more user friendly
--Beta V2 Features
-    -added support for dynamic end point
-    -added support for importing order lists 
-    -added support for retrieving next order and specific order
--Updated Documentation and implemented testing plan with results in Test_PlanV2.pdf
+## [Poster](https://github.com/charlienzw/WLPRS/blob/master/Documentation/Poster.pdf)
+
+## [User Manual](https://github.com/charlienzw/WLPRS/blob/master/Documentation/User_Manual_Final.pdf)
+
+## [Software Specification](https://github.com/charlienzw/WLPRS/blob/master/Documentation/Software_Specification_Final.pdf)
+
+## [Test Documentation](https://github.com/charlienzw/WLPRS/blob/master/Documentation/Final%20Test%20Documentation%20.pdf)
+
