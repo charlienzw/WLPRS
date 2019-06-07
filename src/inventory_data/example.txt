@@ -1,0 +1,6 @@
+ProductID	xLocation	yLocation	AccessN	AccessW	AccessS	AccessE
+1	1	2	1	0	0	0
+45	1	7	1	0	0	0
+74	2	4	1	0	0	0
+102	5	1	1	0	0	0
+149	5	5	1	0	0	0
